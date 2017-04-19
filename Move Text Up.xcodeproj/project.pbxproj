@@ -54,11 +54,11 @@
 		0D96E39A1EA41EF7008B5616 /* Move Text Up */ = {
 			isa = PBXGroup;
 			children = (
-				0D96E39B1EA41EF7008B5616 /* AppDelegate.swift */,
-				0D96E39D1EA41EF7008B5616 /* ViewController.swift */,
 				0D96E39F1EA41EF7008B5616 /* Main.storyboard */,
+				0D96E39D1EA41EF7008B5616 /* ViewController.swift */,
 				0D96E3A21EA41EF7008B5616 /* Assets.xcassets */,
 				0D96E3A41EA41EF7008B5616 /* LaunchScreen.storyboard */,
+				0D96E39B1EA41EF7008B5616 /* AppDelegate.swift */,
 				0D96E3A71EA41EF7008B5616 /* Info.plist */,
 			);
 			path = "Move Text Up";
